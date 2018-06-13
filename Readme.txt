@@ -6,7 +6,9 @@ I've quickly made this app - this is technically WIP as needs more comments -  h
 - App presents fashion clothes, prices, labels propert
 - App runs asynchronously
 
-If I had more time, I'd clean everything up - but it's 21:30hrs, I need to sleep and work tommorow too! 
+If I had more time, I'd clean everything up - but it's 21:30hrs, I need to sleep and work tommorow too!
+
+Please see video and image for example of the app running
 
 I've spent less than two hours on this -  so factor that in - if I had more time I'd improve it.
 
