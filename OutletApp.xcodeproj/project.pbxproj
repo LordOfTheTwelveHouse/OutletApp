@@ -66,6 +66,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DF2AC99320D1AE2800A72D36 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				DF7317E420CEEC6F002AB3F2 /* AppDelegate.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
 		DF7317D820CEEC6F002AB3F2 = {
 			isa = PBXGroup;
 			children = (
@@ -87,10 +95,10 @@
 		DF7317E320CEEC6F002AB3F2 /* OutletApp */ = {
 			isa = PBXGroup;
 			children = (
+				DF2AC99320D1AE2800A72D36 /* Model */,
 				DF876BCB20D1A8A700040622 /* View */,
 				DF876BCA20D1A8A000040622 /* Services */,
 				DF876BC920D1A89900040622 /* Controller */,
-				DF7317E420CEEC6F002AB3F2 /* AppDelegate.swift */,
 				DF7317EB20CEEC6F002AB3F2 /* Assets.xcassets */,
 				DF7317F020CEEC6F002AB3F2 /* Info.plist */,
 			);

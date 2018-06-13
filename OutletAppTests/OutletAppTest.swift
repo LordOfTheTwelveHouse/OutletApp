@@ -23,8 +23,6 @@ class OutletAppTest: XCTestCase {
         var locaArr = Array<Any>()
         ProductWebService.getProductJSON { closureArr in
             locaArr = closureArr!
-            //Perform tasks
-            //print(locaArr)
             XCTAssertTrue(locaArr is [ProductDetails])
             return nil
         }
